@@ -1,0 +1,16 @@
+python-dotenv
+langchain
+langgraph
+langchain-community
+langchain-chroma
+langchain-openai
+duckduckgo-search
+duckdb
+duckdb-engine
+pydantic
+rich[jupyter]
+ipywidgets
+altair[all]
+pandas
+
+gpt-researcher
